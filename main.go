@@ -6,7 +6,7 @@ import (
 
 func main() {
 	fmt.Println(Sub([]float64{0,1},[]float64{0,1}))
-	// => [0 1]
+	// => [0 0]
 }
 
 // Sub - Vector arithmetic subtraction
